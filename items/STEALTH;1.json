@@ -41,7 +41,7 @@
       "C3": "MANGCORE:1",
       "type": "crafting",
       "count": 1,
-      "overrideOutputId": "STEALTH;1"
+      "overrideOutputId": "STEALTH"
     }
   ]
 }
