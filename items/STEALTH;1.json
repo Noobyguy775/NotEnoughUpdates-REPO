@@ -34,14 +34,14 @@
       "A2": "",
       "A3": "",
       "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
+      "B2": "PAPER",
+      "B3": "PAPER",
       "C1": "",
-      "C2": "PAPER:1",
-      "C3": "MANGCORE:1",
+      "C2": "PAPER",
+      "C3": "MANGCORE",
       "type": "crafting",
       "count": 1,
-      "overrideOutputId": "STEALTH"
+      "overrideOutputId": "ENCHANTED_BOOK_STEALTH"
     }
   ]
 }
